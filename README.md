@@ -1,4 +1,5 @@
-# Это функция быстрого казино в MRK Click боте
+Это функция быстрого казино в MRK Click боте
 
-Support: t.me/Artem_work_tg
-Admin: t.me/ilnurKhalikov1
+Support: https://t.me/Artem_work_tg
+
+Admin: https://t.me/ilnurKhalikov1
